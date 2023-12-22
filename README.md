@@ -1,18 +1,21 @@
 # RAD-Project
-<details>
-<br/>
-Técnologias utilizadas:
+
 <br/>
 
-| Rank | Técnologia |
+ Técnologias utilizadas: 
+
+<br/>
+
+| Utilização | Técnologia |
 |-----:|-----------|
-|     1| VueJS|
-|     2| Python    |
-|     3| TailWind       |
-|     4| Express       |
-|     5| SuperSet(apache)       |
-|     6| Firebase       |
+|    FrontEnd| Vue|
+|    BackEnd| JS|
+|     Linguagem API?| Python    |
+|     Estilo| TailWind / css     |
+|     Linguagem API?| Express       |
+|     Graficos| SuperSet(apache)       |
+|     Autenticação Segurança / BackEnd| Firebase       |
 
 
-</details>
+
 
